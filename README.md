@@ -3,7 +3,7 @@ Home work Assignment - Fintech Case Study
 
 #Introduction
 
-Credit affects everything in todays society. Whether we want to buy a house, a new car or just to take out a loan for a renovation. You can have the cash for something and make an outright purchase but to create wealth you can leverage through credit. In the western world credit is King. That ios why businesses such as Experian and TransUnion are used in man organizations to determine whether an individual is eligle to recieve a loan or not. The problem is many people do not regularly check there credit.
+Credit affects everything in todays society. Whether we want to buy a house, a new car or just to take out a loan for a renovation. You can have the cash for something and make an outright purchase but to create wealth you can leverage through credit. In the western world credit is King. That ios why businesses such as Experian and TransUnion are used in man organizations to determine whether an individual is eligible to recieve a loan or not. The problem is many people do not regularly check there credit. Your credit bulds trust between the individual and the lender. 
 One of the main reasons is people do noit see the value opf checking until they get oldewr and the other reason is because people see it as a n unesscessary expense. 
 One company wanted to change that perception and that companu is Credit Karma.
 
@@ -28,11 +28,16 @@ The companies competitors are TaxAct, TurboTax.
 In November 2020 square inc acquired credit karma tax for 50 million and made it part of cash app Unit.
 Credit Karma overall competitors are NerdWallet, Credit Sesame, and Mint which offer free credit score information.
 
+#The Credit Karma App
+
+Due to the impact of technology and the amount of informationwe are exposed to peoples attention spans is approximately 20 seconds and thern our mind focuses on something else. Personally for me i would say mine is 10 seconds unless i tell myself to focus before doing a task. This is why i feel like the credit karma app is so important. The appearance and accessibility to the appl;ication in the app is certainly ahead of the competition. It shows the chances of your approval, how you could find financial help, and even a tax service which they could expand upon. The colours used are also very appealing to the new customer and the 20-35 target market. According to 'Mobile App Daily' the app the positives of the app is that it is free, pefrectly states the criteria for the credit score. The consd stated are that its unavailable in many countries and the finace product recommendations can be distractinbg. It also states that you cannot import transactions which could be frustrating for people who want there score to be improved. Credit Karmna, Experian, MoneyLion, GrowCredit, Self, Kickoff are credit building apps used to make consumers more attractive to loan providers. High interest rates have caused people to take out further loans to cover old loans and therefore delay retirement for former students and therir parents who were guarantor for these loans. 
+
 #Lending 
 
 Lending is centred about fast decision making. This was basically the first type of fintech. Lending has definately diversified into different spheres especially with companies like OnDeck. Point of Sale financing companies such as Affirm and Bread have also come to the forefront.Accoding to an article on mckinsey.com titled 'Scanning the fintech landscape'a new type of funding has taken over for small business. These companies are led by Kabbage and Funding Circle.
 Bluevine and Fundbox are known to focus on credit cards using a variety of techniques in fintech known as verticle lending. 
 Companies such as Tala and Branch use mobile phones to assess to microlend in developing countries. They make real time underwwriting decisions using this service.
+Fortune.com states that 23% of the 23 million of americans in debt are over 45. This is astoiunding information and shows the debt burden on americans. This shows the importance of the fintech industry and how much of a part it has to play in helping consumers and reducing the stress in society. 
 
 #Conclusion
 
