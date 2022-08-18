@@ -78,3 +78,7 @@ https://www.thetimes.co.uk/article/why-are-credit-reference-agencies-flogging-de
 
 NH Register (2022)
 https://www.nhregister.com/news/article/gen-z-young-adults-living-home-ct-17374891.php (Accessed 17 August 2022)
+
+Credit Karma (2022)
+https://www.creditkarma.ca/about
+
