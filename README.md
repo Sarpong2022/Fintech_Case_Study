@@ -13,11 +13,11 @@ Credit Karma was founded in 2007
 The founders are Kenneth Lin, Ryan Graciano, and Nichole Mustard
 One day the co founders came up with an idea that people should have access to theiur credit and financial data for free
 Credit Karma's headquarters is in San Francisco, California.
-The products that this company focuses on are Credit Scores, Credit Reports and Credit Monitoring.
-The number of employees are approximately 70.0
-The parent company is Intuit after purchasing the company from the original founder.s
-The website is www.creditkarma.com.
-Credit Karmas services are free to for those who use its services
+According to Credit Karma's official website (creditkarma.com)the companys mission statement is 'Everyone deserves to feel confident about their finances, our job is to give you the tools, the education and the opportunities you need to make real, meaningful progress'.
+The products that Credit Karma focuses on are Credit Scores, Credit Reports and Credit Monitoring.
+The number of employees are approximately 70.
+The parent company is Intuit after purchasing the company from the original founder.
+Credit Karmas services are free to for those who use its services.
 The firm also helps users manage debt, keep track of their creditr, organize their budget, straddle their loans.
 Credit Karma centers its business core on easy to read credit reporting, personalized score reports.
 Its revenues come from advertising financial products on uits sites for companies.
