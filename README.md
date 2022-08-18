@@ -1,13 +1,14 @@
 # Fintech_Case_Study
 "**Home work Assignment - Fintech Case Study**"
 
-"**Introduction**"
+"**<Introduction>**"
 
 Credit affects everything in todays society. Whether we want to buy a house, a new car or just to take out a loan for a renovation. You can have the cash for something and make an outright purchase but to create wealth you can leverage through credit. In the western world credit is King. That ios why businesses such as Experian and TransUnion are used in man organizations to determine whether an individual is eligible to recieve a loan or not. The problem is many people do not regularly check there credit. Your credit bulds trust between the individual and the lender. 
 One of the main reasons is people do noit see the value opf checking until they get oldewr and the other reason is because people see it as a n unesscessary expense. 
 One company wanted to change that perception and that companu is Credit Karma.
 
 "**Background**"
+
 This case study will be focused on Credit Karma
 Credit Karma was founded in 2007
 The founders are Kenneth Lin, Ryan Graciano, and Nichole Mustard
