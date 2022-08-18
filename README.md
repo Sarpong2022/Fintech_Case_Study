@@ -53,19 +53,28 @@ I personally realize that a lot of these new companies are focusing on the unban
 
 Credit Karma is a company with an even brighter fututre. I hope they assess each business they are advertising products for on their website to see if there business models rewflect helping the consumer. It is easy for a firm to be swayed towards making morer money than helping the people. Blockchain is a game changer. It Credit Karma incorporate blockhain and its uses to improve its infastreucture then it can contiunue to make a big impact. Companies such as BlockStrem and Consensys are companies who are taking advantage of this but many companies are not. Instead of waiting to see what happens its best for them to be proactive.
 
-#References 
-https://fortune.com/2022/08/17/gen-x-versus-gen-z-average-student-debt/
+#References
 
-https://www.thepennyhoarder.com/credit-scores/apps-to-build-credit/
+Fortune (2022)
+https://fortune.com/2022/08/17/gen-x-versus-gen-z-average-student-debt/ (Accessed 17 August 2022)
 
-https://www.cnet.com/how-to/equifax-credit-score-error-find-out-if-you-were-affected/
+The Penny Hoarder (2022)
+https://www.thepennyhoarder.com/credit-scores/apps-to-build-credit/ (Accessed 15 August 2022)
 
-https://www.businessinsider.com/inflation-high-rent-gen-z-living-at-home-permanently-2022-7
+CNET (2022)
+https://www.cnet.com/how-to/equifax-credit-score-error-find-out-if-you-were-affected/ (Accessed 18 August 2022)
+ 
+Business Insider (2022)
+https://www.businessinsider.com/inflation-high-rent-gen-z-living-at-home-permanently-2022-7 (Accessed 18 August 2022)
 
-https://bmmagazine.co.uk/news/shoppers-falling-behind-after-turning-to-buy-now-pay-later/
+BM Magazine (2022)
+https://bmmagazine.co.uk/news/shoppers-falling-behind-after-turning-to-buy-now-pay-later/ (Accessed 18 August 2022)
 
-https://www.thedrum.com/news/2022/08/05/credit-karma-nets-man-city-star-kevin-de-bruyne-new-member-drive
+The Drum (2022)
+https://www.thedrum.com/news/2022/08/05/credit-karma-nets-man-city-star-kevin-de-bruyne-new-member-drive (Accessed 17 August 2022)
+ 
+The Times (2022)
+https://www.thetimes.co.uk/article/why-are-credit-reference-agencies-flogging-debt-to-the-hard-up-30wlcm6wf?shareToken=cf5d9e05559f571f0db0ddf460cdefe3 (Accessed 17 August 2022)
 
-https://www.thetimes.co.uk/article/why-are-credit-reference-agencies-flogging-debt-to-the-hard-up-30wlcm6wf?shareToken=cf5d9e05559f571f0db0ddf460cdefe3
-
-https://www.nhregister.com/news/article/gen-z-young-adults-living-home-ct-17374891.php
+NH Register (2022)
+https://www.nhregister.com/news/article/gen-z-young-adults-living-home-ct-17374891.php (Accessed 17 August 2022)
