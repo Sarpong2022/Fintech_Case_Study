@@ -9,16 +9,16 @@ One company wanted to change that perception and that company is Credit Karma.
 
 # Background
 
-This case study will be focused on Credit Karma
-Credit Karma was founded in 2007
-The founders are Kenneth Lin, Ryan Graciano, and Nichole Mustard
+This case study will be focused on Credit Karma.
+Credit Karma was founded in 2007.
+The founders are Kenneth Lin, Ryan Graciano, and Nichole Mustard.
 One day the co founders came up with an idea that people should have access to theiur credit and financial data for free
 Credit Karma's headquarters is in San Francisco, California.
 According to Credit Karma's official website (creditkarma.com)the companys mission statement is 'Everyone deserves to feel confident about their finances, our job is to give you the tools, the education and the opportunities you need to make real, meaningful progress'.
 The products that Credit Karma focuses on are Credit Scores, Credit Reports and Credit Monitoring.
 The number of employees are approximately 70.
 The parent company is Intuit after purchasing the company from the original founder.
-Credit Karmas services are free to for those who use its services.
+Credit Karmas services are free for those who use its services.
 The firm also helps users manage debt, keep track of their creditr, organize their budget, straddle their loans.
 Credit Karma centers its business core on easy to read credit reporting, personalized score reports.
 Its revenues come from advertising financial products on uits sites for companies.
@@ -31,7 +31,8 @@ Credit Karma overall competitors are NerdWallet, Credit Sesame, and Mint which o
 
 # The Credit Karma App
 
-Due to the impact of technology and the amount of informationwe are exposed to peoples attention spans is approximately 20 seconds and thern our mind focuses on something else. Personally for me i would say mine is 10 seconds unless i tell myself to focus before doing a task. This is why i feel like the credit karma app is so important. The appearance and accessibility to the appl;ication in the app is certainly ahead of the competition. The credit karma app shows the chances of your approval, how you could find financial help, and even a tax service which they could expand upon. The colours used are also very appealing to the new customer and the 20-35 target market. According to 'Mobile App Daily' the app the positives of the app is that it is free, pefrectly states the criteria for the credit score. The consd stated are that its unavailable in many countries and the finace product recommendations can be distractinbg. It also states that you cannot import transactions which could be frustrating for people who want there score to be improved. According to the PennyHoarder firms such as Credit Karmna, Experian, MoneyLion, GrowCredit, Self, Kickoff are credit building apps used to make consumers more attractive to loan providers. High interest rates have caused people to take out further loans to cover old loans and therefore delay retirement for former students and therir parents who were guarantor for these loans. 
+Due to the impact of technology and the amount of information we are exposed to, peoples attention spans are approximately 120 seconds and then our mind focuses on something else. 
+This is why i feel like the credit karma app is so important. The appearance and accessibility to the appl;ication in the app is certainly ahead of the competition. The credit karma app shows the chances of your approval, how you could find financial help, and even a tax service which they could expand upon. The colours used are also very appealing to the new customer and the 20-35 target market. According to 'Mobile App Daily' the app the positives of the app is that it is free, pefrectly states the criteria for the credit score. The consd stated are that its unavailable in many countries and the finace product recommendations can be distractinbg. It also states that you cannot import transactions which could be frustrating for people who want there score to be improved. According to the PennyHoarder firms such as Credit Karmna, Experian, MoneyLion, GrowCredit, Self, Kickoff are credit building apps used to make consumers more attractive to loan providers. High interest rates have caused people to take out further loans to cover old loans and therefore delay retirement for former students and therir parents who were guarantor for these loans. 
 
 # Lending
 
