@@ -1,5 +1,5 @@
 # Fintech Case Study
-# Home work Assignment - Fintech Case Study on Credit Karma
+# Module 1 Assignment - Fintech Case Study on Credit Karma
 
 # Introduction
 
